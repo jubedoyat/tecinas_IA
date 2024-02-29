@@ -1,1 +1,1 @@
-# tecinas_IA
+# Tecinas_IA
